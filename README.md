@@ -1,1 +1,1 @@
-# Google-Earth-Engine---Snow-Cover
+# Google-Earth-Engine-Snow-Cover
